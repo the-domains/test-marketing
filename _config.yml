@@ -1,6 +1,6 @@
 name: Test Marketing
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.9866552762687206
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.3646915312856436
